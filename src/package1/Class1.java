@@ -5,6 +5,8 @@ public class Class1 {
 
         System.out.println("Hello world");
 
+        //System.out.println("Hello world");
+
         //world1
 
         //world2
